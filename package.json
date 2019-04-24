@@ -1,0 +1,9 @@
+{
+  "name": "Default",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "*",
+    "moment": "^2.24.0"
+  }
+}
